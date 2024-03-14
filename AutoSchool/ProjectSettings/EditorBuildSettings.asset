@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/LevelMenu.unity
     guid: 16aab3b28ae519943bafff9d57981e3e
   - enabled: 1
-    path: Assets/Scenes/Theory.unity
+    path: Assets/Scenes/Theory1.unity
     guid: 4042beae89c654f458fcc18715b08f68
   - enabled: 1
     path: Assets/Scenes/Practice1.unity
